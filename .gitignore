@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+github/
+Include/
+Lib/
+mslearn-dp100/
+programs/
+Scripts/
+share/
+pyvenv.cfg
